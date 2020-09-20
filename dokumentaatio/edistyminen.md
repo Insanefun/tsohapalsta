@@ -16,4 +16,12 @@ Aloitettiin tutustumaan ympäristöön ja perustoteutuksen toteuttamiseen.<br />
 Onnistuttu luomaan jonkin sortin yksinkertainen "sivu" materiaalin ohjeiden mukaan, jatketaan materiaalin mukaan, mahdollinen pohja jatkoa ajatellen. <br />
 
 
+### Viikko 3
+
+Edistymiseen esteitä. <br />
+PostgreSQL ei ole toiminut. <br />
+Yritetty saada toimimaan eri ympäristöissä. <br />
+Yritetty saada toimimaan eri tavoin, johtaa eri virheisiin. <br />
+
+
 
